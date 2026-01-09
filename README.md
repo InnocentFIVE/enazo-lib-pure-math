@@ -1,2 +1,8 @@
-# enazo-lib-pure-math
-A library for enazo.
+# 您好
+
+这里是enazo的词库`lib-pure-math`的维护站点. 
+您只需要在`src`中创建`学科.txt`, 然后在理论放置词语即可, 更具体的格式如下:
+```
+Fourier变换,FT,傅里叶变换,傅立叶变换,福瑞变换
+```
+顺带一提, `学科.txt`中的学科须是中文的, 这样会被放到`小狐狸提示`中.
