@@ -68,3 +68,6 @@ Vitali集
 几乎处处
 零测集
 依测度收敛
+Stone-Weierstrass定理
+Riesz-Ficher定理,里斯-费舍尔定理,里斯费舍尔定理
+Fatou引理

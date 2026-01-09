@@ -22,6 +22,7 @@
 群作用
 单群
 可解群
+Burnside引理s
 有限单群分类定理
 魔群
 小魔群
@@ -67,3 +68,7 @@ Galois群,伽罗瓦群
 完备域
 Hensel引理
 Abel-Ruffini定理
+Cayley定理,凯莱定理
+p-群
+Sylow子群,Sylow p-子群,西罗子群,西罗p-子群
+Sylow定理,西罗定理

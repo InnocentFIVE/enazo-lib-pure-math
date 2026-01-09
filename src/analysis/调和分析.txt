@@ -1,3 +1,8 @@
+Fourier变换,FT,傅里叶变换
+Fourier级数,傅里叶级数
+离散Fourier变换,DFT,离散傅里叶变换
+离散时间Fourier变换,DTFT,离散时间傅里叶变换
+卷积
 插值定理,Riesz-Thorin插值,Marcinkiewicz插值
 Calderón-Zygmund分解,CZ分解
 Hardy-Littlewood极大函数,极大函数
