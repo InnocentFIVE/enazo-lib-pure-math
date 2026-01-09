@@ -68,7 +68,11 @@ Galois群,伽罗瓦群
 完备域
 Hensel引理
 Abel-Ruffini定理
+<<<<<<< HEAD
 Cayley定理,凯莱定理
 p-群
 Sylow子群,Sylow p-子群,西罗子群,西罗p-子群
 Sylow定理,西罗定理
+=======
+合成列
+>>>>>>> 51f7ff614ac2fe876ab37aa58869f3bc34798460
