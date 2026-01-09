@@ -21,7 +21,7 @@ ZFC公理系统,ZFC系统,ZFC
 分离公理模式
 选择公理,AC
 Zorn引理,佐恩引理
-Zarmelo良序定理,良序定理,策梅洛良序定理,良序原理
+Zermelo良序定理,良序定理,策梅洛良序定理,良序原理
 关系
 序关系
 偏序集
@@ -50,7 +50,7 @@ Peano公理,皮亚诺公理
 有限集
 无限集,无穷集
 不可数集,不可数
-Cantor-Schröder-Bernstein定理,CSB定理,SB定理,Schröder-Bernstein定理
+Cantor-Schröder-Bernstein定理,CSB定理,SB定理,Schröder-Bernstein定理,Schroder-Bernstein定理
 Cartesian积,笛卡尔积,Descartes积
 逆映射
 字典序
@@ -103,7 +103,7 @@ Taylor级数,泰勒级数
 解析函数
 全纯函数
 亚纯函数,半纯函数
-l'Hopital法则,洛必达法则
+l'Hospital法则,洛必达法则,l'Hopital法则
 Fermat引理,费马引理
 Rolle中值定理,罗尔中值定理
 Cauchy中值定理,柯西中值定理
@@ -137,7 +137,7 @@ Abel群,阿贝尔群,交换群
 拓扑空间
 赋范空间
 内积空间
-Banach空间,巴纳赫空间
+Banach空间,巴拿赫空间
 Hilbert空间,希尔伯特空间
 拓扑线性空间,TVS
 局部凸空间,LCTVS
@@ -148,11 +148,11 @@ Hilbert空间,希尔伯特空间
 凸包
 极限点,聚点
 T1空间,T1,T1公理
-Hausdorff空间,T2空间,豪斯多夫空间
-正则空间,T3空间
-正规空间,T4空间
-完全正规空间,T5空间
-完美正规空间,T6空间
+Hausdorff空间,T2空间,豪斯多夫空间,T2公理,T2
+正则空间,T3空间,T3公理,T3
+正规空间,T4空间,T4公理,T4
+完全正规空间,T5空间,T5公理,T5
+完美正规空间,T6空间,T6公理,T6
 流形
 微分流形,光滑流形
 光滑流形
@@ -569,7 +569,7 @@ p级数
 调和级数
 差分
 素谱
-Cauchy不等式,Cauchy-Schwarz不等式,Scharz不等式,柯西不等式
+Cauchy不等式,Cauchy-Schwarz不等式,Schwarz不等式,柯西不等式
 单模
 正交
 标准正交
