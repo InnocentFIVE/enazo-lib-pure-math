@@ -51,7 +51,7 @@ L2空间,平方可积函数空间
 Riemann积分
 弱Lp空间,弱Lp函数空间
 Lebesgue分解,Lebesgue测度分解
-Radon-Nikodym定理,Radon-Nikodym导数,Radon-Nikodym
+Radon-Nikodym定理,Radon-Nikodym导数,Radon-Nikodym,RN导数,RN定理
 单调类引理
 Sobolev空间
 Lusin定理

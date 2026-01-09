@@ -1,0 +1,8 @@
+局部环
+局部化
+Noether环
+Noether模
+Artin环
+Artin模
+Hilbert基定理
+Hilbert零点定理
