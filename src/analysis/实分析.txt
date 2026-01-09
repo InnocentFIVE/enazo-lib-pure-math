@@ -23,7 +23,10 @@ Young不等式
 Hardy不等式
 Jensen不等式
 Minkowski不等式
+广义Minkowski不等式
 Hausdorff-Young不等式
+Fubini定理
+Riesz表示定理
 完备测度
 Lp对偶
 共轭指标
