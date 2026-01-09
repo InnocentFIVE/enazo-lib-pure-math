@@ -1,16 +1,17 @@
 #!/usr/bin/env bash
 
-rm ./lib-pure-math.txt
-SRC_DIR="${1:-./src}"
-OUTPUT_FILE="${2:-lib-pure-math.txt}"
+SRC="${1:-./src}"
+OUT="${2:-lib-pure-math.txt}"
 
-find "$SRC_DIR" -type f | while read file; do
-    filename=$(basename "$file")
-    name_no_ext="${filename%.*}"
-    
-    [[ "$name_no_ext" == "$filename" ]] && name_no_ext="$filename"
-    awk -v name="$name_no_ext" '
+if [[ -f "$OUT" ]]; then 
+    rm -f "$OUT"
+fi
+
+find "$SRC" -type f | while read file; do
+    fn=$(basename "$file")
+    nn="${fn%.txt}"
+    awk -v name="$nn" '
     {
         print $0 "$" name
-    }' "$file" >> "$OUTPUT_FILE"
+    }' "$file" >> "$OUT"
 done
