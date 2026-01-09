@@ -78,3 +78,10 @@ Tietze扩张定理
 同伦
 道路同伦
 直线同伦
+Grassmann流形,Grassmannian,格拉斯曼流形
+环面,甜甜圈,Torus
+球
+Möbius带,Mobius带,Mobius环,莫比乌斯环
+Klein瓶,克莱因瓶
+罗马曲面,Steiner曲面
+Riemann曲面,黎曼曲面
