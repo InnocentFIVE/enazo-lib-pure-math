@@ -39,8 +39,8 @@ Dirac测度
 Radon测度
 Egoroff定理
 Fatou引理
-控制收敛定理
-单调收敛定理
+控制收敛定理,MCT
+单调收敛定理,DCT
 有限测度
 Hausdorff测度
 可积函数
@@ -59,3 +59,9 @@ Lusin猜想
 插值定理
 测度空间
 σ-有限测度,sigma有限测度
+Lebesgue积分
+Lebesgue测度
+Vitali集
+几乎处处
+零测集
+依测度收敛
