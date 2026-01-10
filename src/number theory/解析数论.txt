@@ -1,0 +1,28 @@
+素数定理,PNT
+Riemann ζ函数,ζ函数,Riemann zeta函数,zeta函数
+无限制分拆函数,分拆函数,分拆数
+生成函数,母函数
+Euler五角形定理,五角形定理
+完整三角和公式,三角和公式,三角和,Gauss和
+二次互反律
+Dirichlet定理,算术数列中的素数定理
+Dirichlet特征,初等特征
+实特征
+主特征
+原特征
+Dirichlet L函数
+Riemann假设,Riemann猜想,黎曼假设,RH
+Gauss圆问题,圆内整点问题
+Dirichlet除数问题
+指数和
+Hardy-Littlewood圆法,圆法
+Goldbach猜想,哥德巴赫猜想,GC
+Waring问题,华林问题
+Виноградов三素数定理,Vinogradov三素数定理,Виноградов定理,Vinogradov定理,三素数定理,弱Goldbach定理
+Weyl指数和,Weyl和
+素变数指数和,素变指数和
+Kloostermann和,Kl和
+孪生素数猜想
+筛法
+大筛法
+小筛法
