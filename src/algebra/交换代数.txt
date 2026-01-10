@@ -17,16 +17,12 @@ Hilbert零点定理
 整闭
 剩余域
 素谱
-素理想
-极大理想
 准素理想
 准素分解
 Dedekind整环,戴德金整环
 可分代数
 分式域,商域
 全分式环,全商域
-唯一分解整环,UFD
-主理想整环,PID
 Krull维数
 Krull主理想定理,Krulls Hauptidealsatz
 Cohen-Macaulay,C.M.,CM
